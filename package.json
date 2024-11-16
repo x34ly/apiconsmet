@@ -23,11 +23,7 @@
     },
     "homepage": "https://github.com/consumet/consumet.ts#readme",
     "dependencies": {
-<<<<<<< HEAD
-        "@consumet/extensions": "github:consumet/consumet.ts",
-=======
         "@consumet/extensions": "^1.8.1",
->>>>>>> c450124 (Fix Manga Routes and Routes for Anime Meta Contact Dev error)
         "@fastify/cors": "^8.2.0",
         "@types/fastify-cors": "^2.1.0",
         "@types/node": "^18.11.17",
